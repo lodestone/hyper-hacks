@@ -16,3 +16,5 @@ This hack with https://github.com/tekezo/Karabiner-Elements:[Karabiner-Elements]
 * Put `karabiner.d/configuration/karabiner.json` in `~/.karabiner.d/configuration/karabiner.json`
 
 That's pretty much it.
+
+This is my first attempt and has a few examples in the `init.lua`. I aim to learn some more Lua and clean up the repetitious code.
