@@ -18,3 +18,5 @@ This hack with link:https://github.com/tekezo/Karabiner-Elements[Karabiner-Eleme
 That's pretty much it.
 
 This is my first attempt and has a few examples in the `init.lua`. I aim to learn some more Lua and clean up the repetitious code.
+
+In the meantime, check out the link:https://github.com/lodestone/hyper-hacks/wiki[Wiki] for ideas on how to configure your `init.lua`.
