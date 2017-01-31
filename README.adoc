@@ -13,7 +13,7 @@ This hack with link:https://github.com/tekezo/Karabiner-Elements[Karabiner-Eleme
 * Install Hammerspoon
 * Install Karabiner-Elements
 * Put `hammerspoon/init.lua` in `~/.hammerspoon/init.lua`
-* Put `karabiner.d/configuration/karabiner.json` in `~/.karabiner.d/configuration/karabiner.json`
+* Put `karabinier/karabiner.json` in `~/.config/karabinier/karabiner.json`
 
 That's pretty much it.
 
